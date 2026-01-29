@@ -19,7 +19,7 @@ The primary goal of creating this mini-framework was to deconstruct and understa
 > **Note:** This project is an architectural exercise and is not intended for production use. It served as a solid foundation for my mastery of the Laravel framework.
 
 ---
-
+<pre>
 ## File Structure
 ├── /app
 │   ├── /Controllers
@@ -37,7 +37,4 @@ The primary goal of creating this mini-framework was to deconstruct and understa
 │   └── index.php
 ├── .env (Environment variables)
 └── routes.php (Route definitions)
-=======
-# MiniMVC
-MiniMVC
->>>>>>> 2a13e35f4c59fd32f4396d1c6520d40225838b57
+</pre>
