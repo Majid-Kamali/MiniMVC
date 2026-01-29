@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple-PHP-Framework (Educational Purpose)
 
 ### Why did I build this project?
@@ -36,3 +37,7 @@ The primary goal of creating this mini-framework was to deconstruct and understa
 │   └── index.php
 ├── .env (Environment variables)
 └── routes.php (Route definitions)
+=======
+# MiniMVC
+MiniMVC
+>>>>>>> 2a13e35f4c59fd32f4396d1c6520d40225838b57
